@@ -1,0 +1,13 @@
+PyMuPDF
+nltk
+chromadb
+sentence-transformers
+rank-bm25
+openai
+python-dotenv
+torch
+transformers
+ragas
+datasets
+pandas
+tqdm
